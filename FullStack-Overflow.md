@@ -14,4 +14,4 @@ URL: https://ads.vk.com/
     2. Нажать на иконку поиска в navbar
 
 **Ожидаемый результат:** Появится окно с рекомендованными страницами сайта и рекомендованными статьями.  
-![alt text](images\articles\bfore_search_recomendations.png)
+![alt text](images/articles/bfore_search_recomendations.png)
